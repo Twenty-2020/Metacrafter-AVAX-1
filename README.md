@@ -1,6 +1,6 @@
 # Metacrafter-AVAX-1
 
-This Solidity code demonstrates an example use for the require, assert, and reverse function using a Music Store.
+This Solidity code demonstrates an example use for the require, assert, and reverse function using a Music Store. The Music Store works by only allowing subscribers to purchase an album; which if they aren't must pay for the subscription.
 
 ## Description
 
