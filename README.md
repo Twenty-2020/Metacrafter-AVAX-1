@@ -4,7 +4,7 @@ This Solidity code demonstrates an example use for the require, assert, and reve
 
 ## Description
 
-The code is written in Solidity, a programming language for developing in Ethereum. The contract contains functions for minting, as well as burning tokens. The program serves as a good introduction to Solidity programming, through the use of require, assert, and reverse functions.
+The code is written in Solidity, a programming language for developing in Ethereum. The program serves as a good introduction to Solidity programming, through the use of require, assert, and reverse functions.
 
 ### Executing program
 The code can be run using Remix, an online Solidity IDE. Remix can be accessed and used in https://remix.ethereum.org/.
